@@ -1,0 +1,1 @@
+# Thermal-Hotspots-Detection-and-Clustering-from-PV-Cells

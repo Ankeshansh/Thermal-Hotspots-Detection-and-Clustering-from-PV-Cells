@@ -2,8 +2,8 @@
 
 **Overview of the Approach:**
 
-•	Thermal Data Extraction
-•	Extracting Bounding Box Coordinates of PV Cells
-•	Finding Hotspots through thresholding and extracting their features
-•	Clustering of hotspots
-•	Results on the dataset images
+1. Thermal Data Extraction
+2. Extracting Bounding Box Coordinates of PV Cells
+3. Finding Hotspots through thresholding and extracting their features
+4. Clustering of hotspots
+5. Results on the dataset images

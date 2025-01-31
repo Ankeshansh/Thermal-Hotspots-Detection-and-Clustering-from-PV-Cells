@@ -50,7 +50,7 @@ Upon execution, the project delivers the following outputs:
 
 Raw Image:
 - **Thermal image:**
-  ![Thermal Image]("C:\Users\ansha\Downloads\042R_raw.jpg")
+  ![Thermal Image](C:\Users\ansha\Downloads\042R_raw.jpg)
 
 Sample Output:
 - **Hotspot Detection Visualization:**

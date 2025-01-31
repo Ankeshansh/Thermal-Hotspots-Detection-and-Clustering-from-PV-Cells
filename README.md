@@ -50,11 +50,11 @@ Upon execution, the project delivers the following outputs:
 
 Raw Image:
 - **Thermal image:**
-  ![Thermal Image](C:\Users\ansha\Downloads\042R_raw.jpg)
+  ![Thermal Image](images/042R_raw.jpg)
 
 Sample Output:
 - **Hotspot Detection Visualization:**
-  ![Hotspot Detection](https://drive.google.com/file/d/1IWm86uDnRp9QQ_tg33FDxuioTXdPLRtg/view?usp=drive_link)
+  ![Hotspot Detection](images/042_blended.jpg)
 
 - **Clustering Example:**
-  ![Clustering Visualization]("C:\Users\ansha\Downloads\042R_clustered.jpg")
+  ![Clustering Visualization](images/042R_clustered.jpg)

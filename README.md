@@ -54,7 +54,7 @@ Raw Image:
 
 Sample Output:
 - **Hotspot Detection Visualization:**
-  ![Hotspot Detection](images/042_blended.jpg)
+  ![Hotspot Detection](images/042R_blended.jpg)
 
 - **Clustering Example:**
   ![Clustering Visualization](images/042R_clustered.jpg)

@@ -49,12 +49,18 @@ Upon execution, the project delivers the following outputs:
 - **Clustering Visualizations:** Graphical plots representing clustered fault types.
 
 Raw Image:
+
+
 - **Thermal image:**
   ![Thermal Image](images/042R_raw.jpg)
+
+
 
 Sample Output:
 - **Hotspot Detection Visualization:**
   ![Hotspot Detection](images/042R_blended.jpg)
+
+
 
 - **Clustering Example:**
   ![Clustering Visualization](images/042R_clustered.jpg)
